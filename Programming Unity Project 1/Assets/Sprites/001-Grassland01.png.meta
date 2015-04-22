@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 810a0f2284f0b424e8a2d521f51e6c1c
+timeCreated: 1429568832
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 001-Grassland01_0
+    21300002: 001-Grassland01_1
+    21300004: 001-Grassland01_2
+    21300006: 001-Grassland01_3
+    21300008: 001-Grassland01_4
+    21300010: 001-Grassland01_5
+    21300012: 001-Grassland01_6
+    21300014: 001-Grassland01_7
+    21300016: 001-Grassland01_8
+    21300018: 001-Grassland01_9
+    21300020: 001-Grassland01_10
+    21300022: 001-Grassland01_11
+    21300024: 001-Grassland01_12
+    21300026: 001-Grassland01_13
+    21300028: 001-Grassland01_14
+    21300030: 001-Grassland01_15
+    21300032: 001-Grassland01_16
+    21300034: 001-Grassland01_17
+    21300036: 001-Grassland01_18
+    21300038: 001-Grassland01_19
+    21300040: 001-Grassland01_20
+    21300042: 001-Grassland01_21
+    21300044: 001-Grassland01_22
+    21300046: 001-Grassland01_23
+    21300048: 001-Grassland01_24
+    21300050: 001-Grassland01_25
+    21300052: 001-Grassland01_26
+    21300054: 001-Grassland01_27
+    21300056: 001-Grassland01_28
+    21300058: 001-Grassland01_29
+    21300060: 001-Grassland01_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 001-Grassland01_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 561
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 546
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 570
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 570
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 545
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 546
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 554
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 532
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 520
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 513
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 531
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 484
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 512
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 516
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 519
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 423
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 485
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 481
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 482
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 452
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 449
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 448
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 115
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 161
+        width: 7
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 161
+        width: 7
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 213
+        width: 94
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 001-Grassland01_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 75
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
