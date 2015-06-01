@@ -21,10 +21,10 @@ public class Movement : MonoBehaviour {
 		if (movement_vector != Vector2.zero) {
 			anim.SetBool ("isWalking", true);
 			anim.SetFloat("input_x", movement_vector.x);
-			anim.SetFloat("input_x", movement_vector.y);
+			anim.SetFloat("input_y", movement_vector.y);
 		} else {
 			anim.SetBool ("isWalking", false);
 		}
-		rbody.MovePosition( rbody.position + movement_vector * Time.deltaTime);
+		rbody.MovePosition( rbody.position + 3 * movement_vector * Time.deltaTime);
 	}
 }
