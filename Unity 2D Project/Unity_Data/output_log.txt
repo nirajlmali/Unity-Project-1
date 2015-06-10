@@ -1,0 +1,21 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x887a0004)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 8.15.10.1749]
+    Renderer: Intel(R) Q33 Express Chipset Family (Microsoft Corporation - WDDM 1.0)
+    Vendor:   Intel
+    VRAM:     64 MB (via DXGI)
+    Caps:     Shader=20 DepthRT=0 NativeDepth=0 NativeShadow=0 DF16=0 INTZ=0 NULL=0 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: M:\Digital Media\Winikka\Programming 1\_Student Folders\Period4\malin383\Programming 1\Unity Projects\Unity-Project-1\Unity 2D Project\Unity_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading M:\Digital Media\Winikka\Programming 1\_Student Folders\Period4\malin383\Programming 1\Unity Projects\Unity-Project-1\Unity 2D Project\Unity_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: M:\Digital Media\Winikka\Programming 1\_Student Folders\Period4\malin383\Programming 1\Unity Projects\Unity-Project-1\Unity 2D Project\Unity_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading M:\Digital Media\Winikka\Programming 1\_Student Folders\Period4\malin383\Programming 1\Unity Projects\Unity-Project-1\Unity 2D Project\Unity_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: M:\Digital Media\Winikka\Programming 1\_Student Folders\Period4\malin383\Programming 1\Unity Projects\Unity-Project-1\Unity 2D Project\Unity_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading M:\Digital Media\Winikka\Programming 1\_Student Folders\Period4\malin383\Programming 1\Unity Projects\Unity-Project-1\Unity 2D Project\Unity_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  1.888 seconds
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
